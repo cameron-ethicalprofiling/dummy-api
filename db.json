@@ -1,0 +1,78 @@
+{
+    "products": [
+        {
+            "title": "Men's Short Sleeve 100% Organic Cotton",
+            "description": "<div><p><em>36 pieces per style of Black, Midnight Blue, Deep Sky Blue, or White <strong>or</strong> 500 pieces minimum for custom colours.</em></p><p>SKU: EC1010<br>Available in S-4XL<br>150gsm / 4.41 oz/sq. yd<br></p><ul><li>Comfortable classic t-shirt in men’s comfort fit.</li><li>100% ringspun combed organic cotton.</li><li>Soft texture for extra comfort.</li></ul>Made in Canada</div>",
+            "base_sku": "EC1010",
+            "colors": ["Kelly Green", "Sky Blue"],
+            "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
+            "pricelists": [
+                {
+                    "label": "< 199",
+                    "low": 12,
+                    "high": 199,
+                    "price": 9.1
+                },
+                {
+                    "label": "200 - 399",
+                    "low": 200,
+                    "high": 399,
+                    "price": 8.75
+                },
+                {
+                    "label": "400 +",
+                    "low": 400,
+                    "high": 99999,
+                    "price": 8.25
+                },
+                {
+                    "label": "MSRP",
+                    "low": 0,
+                    "high": 11,
+                    "price": 18.2
+                }
+            ],
+            "variants": [{
+                "color": "Kelly Green",
+                "size": "XS",
+                "sku": "EC1010-KGR-XS",
+                "inventory_level": 21
+            }, {
+                "color": "Kelly Green",
+                "size": "S",
+                "sku": "EC1010-KGR-S",
+                "inventory_level": 8
+            }, {
+                "color": "Kelly Green",
+                "size": "M",
+                "sku": "EC1010-KGR-M",
+                "inventory_level": 10
+            }, {
+                "color": "Kelly Green",
+                "size": "L",
+                "sku": "EC1010-KGR-L",
+                "inventory_level": 33
+            }, {
+                "color": "Kelly Green",
+                "size": "XL",
+                "sku": "EC1010-KGR-XL",
+                "inventory_level": 3
+            }, {
+                "color": "Kelly Green",
+                "size": "2XL",
+                "sku": "EC1010-KGR-2XL",
+                "inventory_level": 12
+            }, {
+                "color": "Kelly Green",
+                "size": "3XL",
+                "sku": "EC1010-KGR-2XL",
+                "inventory_level": 8
+            }, {
+                "color": "Kelly Green",
+                "size": "4XL",
+                "sku": "EC1010-KGR-4XL",
+                "inventory_level": 21003
+            }]
+        }
+    ]
+}
