@@ -8,28 +8,39 @@
             "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL"],
             "pricelists": [
                 {
+                    "usergroup": "anon",
                     "label": "< 199",
                     "low": 12,
                     "high": 199,
                     "price": 9.1
                 },
                 {
+                    "usergroup": "anon",
                     "label": "200 - 399",
                     "low": 200,
                     "high": 399,
                     "price": 8.75
                 },
                 {
+                    "usergroup": "anon",
                     "label": "400 +",
                     "low": 400,
                     "high": 99999,
                     "price": 8.25
                 },
                 {
+                    "usergroup": "anon",
                     "label": "MSRP",
                     "low": 0,
                     "high": 11,
                     "price": 18.2
+                },
+                {
+                    "usergroup": "vip",
+                    "label": "End Column for VIPs",
+                    "low": 0,
+                    "high": 99999,
+                    "price": 8.25
                 }
             ],
             "variants": [{
